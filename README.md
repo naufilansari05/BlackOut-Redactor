@@ -17,4 +17,6 @@ Other entities such as GPE (Geopolitical entity), DATE, or CARDINAL are not reco
 
 ### How to run
 
-Simply connect to a hosted runtime (T4 GPU was used during my testing) and click `Run all`. For an in-depth explanation on what each code cell does, see the Markdown cell before it for more details.
+Simply open the notebook using Google Colab, connect to a hosted runtime (T4 GPU was used during my testing) and click `Run all`. For an in-depth explanation on what each code cell does, see the Markdown cell before it for more details.
+
+For testing purposes, you can use Sample.pdf to verify the program works properly before using your own documents.
